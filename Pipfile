@@ -10,6 +10,10 @@ matplotlib = "*"
 ipykernel = "*"
 black = "*"
 seaborn = "*"
+dash = "*"
+dash-bootstrap-components = "*"
+python-dotenv = "*"
+requests = "*"
 
 [dev-packages]
 
