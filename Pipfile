@@ -14,6 +14,7 @@ dash = "*"
 dash-bootstrap-components = "*"
 python-dotenv = "*"
 requests = "*"
+openpyxl = "*"
 
 [dev-packages]
 
