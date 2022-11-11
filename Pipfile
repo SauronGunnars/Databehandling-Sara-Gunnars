@@ -15,6 +15,9 @@ dash-bootstrap-components = "*"
 python-dotenv = "*"
 requests = "*"
 openpyxl = "*"
+plotly = "*"
+plotly-express = "*"
+nbformat = "*"
 
 [dev-packages]
 
